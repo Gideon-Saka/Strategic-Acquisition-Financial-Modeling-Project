@@ -21,12 +21,12 @@ The following artefacts demonstrate the analysis and decision-making process fro
 - Financial Model
 
 Detailed financial projections including revenue synergies, growth assumptions, and cash flow forecasting.
-[View Financial Model](./artefacts/financial-model.xlsx)
+[View Financial Model](./artefacts/financial-model.pdf)
 
 - Customer Trends Executive Summary
 
 Executive-level document summarizing key insights, risks, and business implications derived from the analysis.
-[View Executive Summary](./artefacts/Executive-Summary.pptx)
+[View Executive Summary](./artefacts/Executive-Summary.pdf)
 
 - Investment Presentation
 
