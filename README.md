@@ -26,12 +26,12 @@ Detailed financial projections including revenue synergies, growth assumptions, 
 - Customer Trends Executive Summary
 
 Executive-level document summarizing key insights, risks, and business implications derived from the analysis.
-[View Executive Summary](./artefacts/executive-summary.pptx)
+[View Executive Summary](./artefacts/Executive-Summary.pptx)
 
 - Investment Presentation
 
 Board-ready presentation communicating valuation, deal rationale, and final recommendation.
-[View Presentation Deck](./artefacts/investment-presentation.pdf)
+[View Presentation Deck](./artefacts/Investment-Presentation.pdf)
 
 # 📈 Skills & Tools Demonstrated
 
